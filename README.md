@@ -45,13 +45,13 @@ export default Demo;
 1. کلون ریپازیتوری:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/sajjadnazaridev/shortlog-url-summary-app.git
    ```
 
 2. نصب وابستگی‌ها:
 
    ```bash
-   cd your-repo
+   cd shortlog-url-summary-app
    npm install
    ```
 
@@ -114,13 +114,13 @@ export default Demo;
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/sajjadnazaridev/shortlog-url-summary-app.git
    ```
 
 2. Install dependencies:
 
    ```bash
-   cd your-repo
+   cd shortlog-url-summary-app
    npm install
    ```
 
@@ -133,7 +133,3 @@ export default Demo;
 ## License
 
 [MIT License](./LICENSE)
-
-```
-
-```
