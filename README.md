@@ -22,7 +22,6 @@ const Hero = () => {
 
 export default Hero;
 ```
-````
 
 ### Demo Component
 
